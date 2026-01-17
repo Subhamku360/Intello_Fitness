@@ -7,11 +7,10 @@ A modern and visually striking **fitness/gym landing page** built using **HTML a
 ## 🔍 Preview
 
 > 📸 Project Preview
-(Add a screenshot of your project here after running it locally)
+
 
 ![Gym Landing Page Preview](./images/Preview.png)
 
-👉 Tip: Take a screenshot of your webpage, name it `preview.png`, and place it in the root folder.
 
 ---
 

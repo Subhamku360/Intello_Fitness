@@ -48,6 +48,7 @@ project-folder/
 │   ├── intello_wordmark_light.svg
 │   └── refine_light.svg
 └── fonts/
+```
 
 ## 🚀 How to Run Locally
 
